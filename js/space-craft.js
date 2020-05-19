@@ -35,6 +35,7 @@ $(document).ready(function () {
     else{
       console.log('malakas')
       $('#filters').collapse('show')
+      $('#projectText').collapse('show')
     }
 
     $('#filters').on('hidden.bs.collapse', function () {
