@@ -75,7 +75,7 @@ body{
     opacity:0.5;
 }
 .active-nav{
-    border-bottom: 2px solid #F2CF1D;
+    border-bottom: 2px solid #0311FC;
 }
 .active-filter{
     margin-left:10px;
@@ -162,7 +162,7 @@ margin-bottom: 5vh;
     font-size: 12px;
 }
 a.project-link:hover{
-    cursor:alias;
+    cursor:crosshair;
 }
 a.project-link:hover img{
     opacity:0;
@@ -178,7 +178,7 @@ a.project-link:hover .project-info-card{
     }
 
 .overlay {
-    border: 3px solid #F2CF1D;
+    border: 3px solid #0311FC;
    height:100%;
     opacity:0;
     position:absolute;
