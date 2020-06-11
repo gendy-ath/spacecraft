@@ -41,8 +41,6 @@ $(document).ready(function () {
         $('.filter-link.highlight').removeClass('highlight');
         $('.nav-right').removeClass('filtered-on-hover');  
       });
-
-      
       
     
 });
